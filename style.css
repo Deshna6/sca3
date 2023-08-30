@@ -1,0 +1,39 @@
+
+
+.header_div 
+{
+    background-color:grey;
+    color: white;
+}
+.p_class
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    letter-spacing: 5px;
+    font-size: 12px;
+}
+.button
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 25px;
+    width: 56px;
+    font-weight: 500;
+    font-size: 30;
+}
+body
+{
+    background-color: lightgray;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color:white;
+    line-height: 3;
+    text-align: center;
+    font-size: 15px;
+    text-shadow: lightgray
+    ;
+ }
